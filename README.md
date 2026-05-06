@@ -1,8 +1,3 @@
---
-  ~ Copyright (c) 2018 LINE Corporation. All rights reserved.
-  ~ LINE Corporation PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
-  -->
-
 <!DOCTYPE html>
 <html lang="zh-Hant" data-lang="zh-Hant">
 <head>
